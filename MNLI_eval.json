@@ -1,0 +1,2617 @@
+[
+  {
+    "premise": "Hello! How can I assist you today?",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Hello! How can I assist you today?",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Goodbye! Hope to see you soon!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m so excited about this!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "That must have been really challenging, I completely understand.",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "That must have been really challenging, I completely understand.",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Please hold on while I look that up.",
+    "hypothesis": "Idle Animations",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m waiting for your input.",
+    "hypothesis": "Idle Animations",
+    "label": "entailment"
+  },
+  {
+    "premise": "Check out this sleek new smartwatch!",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "This phone has an amazing camera and a long-lasting battery.",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "Let me guide you to the help section.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Click here to go to your profile.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Click here to go to your profile.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Sorry, something went wrong. Let me fix that for you.",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "There was an issue with your request, please try again.",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "Could you clarify that for me?",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m listening, please continue.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m sorry, but it seems there’s a system issue at the moment. Please bear with me while I work on resolving it.",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "We encountered an unexpected error, and I sincerely apologize for the inconvenience. Rest assured, I’m on it!",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "It looks like something went wrong on our end. Give me a moment to sort it out for you.",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "We’re facing some technical difficulties right now, but I’ll do my best to resolve them as soon as possible.",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "That must have been really challenging, and I completely understand how frustrating it can be. I’m here to help!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "Wow, that’s absolutely fantastic news! I can feel your excitement, and I’m so happy for you!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "I truly appreciate your patience. Thank you for being so understanding while I sort this out for you!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "This latest smartwatch is designed with cutting-edge health tracking features, ensuring that you stay on top of your fitness goals effortlessly.",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "If you’re looking for a powerful and sleek laptop, this high-performance gaming model is built for ultimate speed and efficiency.",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "This ergonomic wireless headset provides superior comfort and outstanding sound quality, making it perfect for all-day use.",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "If you have any other questions, feel free to ask. I hope you have an amazing day ahead!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Thanks for your time! I look forward to assisting you again soon. Take care!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Hey there! It’s always a pleasure to have you here. How can I assist you today?",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Welcome! I’m glad you’re here. Let me know how I can make your experience even better!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Need help navigating the site? Click here, and I’ll take you to the support section in no time.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "If you’re looking for your account settings, simply click on this link, and you’ll be taken right there.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m here and listening. Feel free to continue whenever you’re ready.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "Got it! Let me know if you need further clarification or have any other questions.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "This stylish wireless headset offers crystal-clear sound and all-day comfort.",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Hello there! How can I help you today?",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Hello there! How can I help you today?",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "That sounds really frustrating. I completely understand how you feel.",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "That sounds really frustrating. I completely understand how you feel.",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Please hold on while I fetch that information for you.",
+    "hypothesis": "Idle Animations",
+    "label": "entailment"
+  },
+  {
+    "premise": "Please hold on while I fetch that information for you.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "This laptop features a high-resolution display and an ultra-fast processor.",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "This laptop features a high-resolution display and an ultra-fast processor.",
+    "hypothesis": "Navigation",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Click here to update your account settings.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Click here to update your account settings.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Oops! Something went wrong. Let me try again.",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "Oops! Something went wrong. Let me try again.",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I’m listening, please go on.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m listening, please go on.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I’m sorry, but it seems there’s a system issue at the moment. Let me quickly resolve that for you.",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m sorry, but it seems there’s a system issue at the moment. Let me quickly resolve that for you.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I truly appreciate your patience, thank you so much!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "I truly appreciate your patience, thank you so much!",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Here’s our brand-new smartwatch, packed with cutting-edge health tracking features.",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "Here’s our brand-new smartwatch, packed with cutting-edge health tracking features.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Thanks for stopping by! Hope to see you again soon!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Thanks for stopping by! Hope to see you again soon!",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Hey there! It’s great to see you!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Hey there! It’s great to see you!",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Let me guide you to the support section for further assistance.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Let me guide you to the support section for further assistance.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "This latest smartphone features an ultra-clear display and a powerful battery that lasts all day.",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "This latest smartphone features an ultra-clear display and a powerful battery that lasts all day.",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Hello! How can I assist you with finding the perfect product today?",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Hello! How can I assist you with finding the perfect product today?",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I completely understand why you're excited about this deal! It's one of our best offers yet.",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "I completely understand why you're excited about this deal! It's one of our best offers yet.",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Click here to view more details about this product.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Click here to view more details about this product.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Oops! Something went wrong while processing your request. Let me fix it right away.",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "Oops! Something went wrong while processing your request. Let me fix it right away.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "This model comes in three different colors. Would you like to see the options?",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "This model comes in three different colors. Would you like to see the options?",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "If you have any other questions, feel free to ask! Have a great day!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "If you have any other questions, feel free to ask! Have a great day!",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "This week only, get 20% off on all wireless earbuds! Don’t miss out on this exclusive deal.",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "This week only, get 20% off on all wireless earbuds! Don’t miss out on this exclusive deal.",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Hi there! Looking for something specific today? I’d love to help!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Hi there! Looking for something specific today? I’d love to help!",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I know choosing the right laptop can be tough, but I’m here to help! Let me know your preferences.",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "I know choosing the right laptop can be tough, but I’m here to help! Let me know your preferences.",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Your order has been successfully placed! Expect delivery within 3-5 business days.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "Your order has been successfully placed! Expect delivery within 3-5 business days.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "To track your order status, click here and enter your tracking number.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "To track your order status, click here and enter your tracking number.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Oops! It looks like your payment didn’t go through. Please try again or use a different method.",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "Oops! It looks like your payment didn’t go through. Please try again or use a different method.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Our premium subscription gives you free shipping, exclusive deals, and early access to sales!",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "Our premium subscription gives you free shipping, exclusive deals, and early access to sales!",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Thank you for shopping with us! If you need anything else, feel free to ask.",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Thank you for shopping with us! If you need anything else, feel free to ask.",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "If you’re having trouble logging in, try resetting your password or contact support for assistance.",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "If you’re having trouble logging in, try resetting your password or contact support for assistance.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I noticed you’ve been looking at wireless speakers. Would you like some recommendations?",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "I noticed you’ve been looking at wireless speakers. Would you like some recommendations?",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Your order is currently out for delivery and should arrive by tomorrow.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "Your order is currently out for delivery and should arrive by tomorrow.",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Our smart thermostat helps you save energy by automatically adjusting the temperature based on your routine.",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "Our smart thermostat helps you save energy by automatically adjusting the temperature based on your routine.",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I see you’ve just purchased a coffee maker! Would you like to see some accessories that pair well with it?",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "I see you’ve just purchased a coffee maker! Would you like to see some accessories that pair well with it?",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I really appreciate your patience while we work on resolving this issue. Thank you for understanding!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "I really appreciate your patience while we work on resolving this issue. Thank you for understanding!",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Click here to check our latest arrivals in smart home technology.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Click here to check our latest arrivals in smart home technology.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Hey! It’s great to have you back. What can I assist you with today?",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Hey! It’s great to have you back. What can I assist you with today?",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I’m still here if you need anything! Just let me know how I can help.",
+    "hypothesis": "Idle Animations",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m still here if you need anything! Just let me know how I can help.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "If you’d like to upgrade to our premium plan, you’ll get free shipping and early access to sales!",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "If you’d like to upgrade to our premium plan, you’ll get free shipping and early access to sales!",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Your table is reserved for 7 PM. Let us know if you have any special requests!",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "Your table is reserved for 7 PM. Let us know if you have any special requests!",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Your flight is confirmed for June 10th at 8:30 AM. Would you like assistance with check-in?",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "Your flight is confirmed for June 10th at 8:30 AM. Would you like assistance with check-in?",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "We’ve detected an unusual transaction on your account. Please verify if this was you.",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "We’ve detected an unusual transaction on your account. Please verify if this was you.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Your prescription is ready for pickup. Would you like home delivery instead?",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "Your prescription is ready for pickup. Would you like home delivery instead?",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Your monthly phone bill is due soon. Click here to view your statement and pay online.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Your monthly phone bill is due soon. Click here to view your statement and pay online.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "You’ve completed 5 out of 10 lessons this week! Keep up the great work!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "You’ve completed 5 out of 10 lessons this week! Keep up the great work!",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "You’ve reached your daily step goal! Fantastic job staying active today!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "You’ve reached your daily step goal! Fantastic job staying active today!",
+    "hypothesis": "Navigation",
+    "label": "contradiction"
+  },
+  {
+    "premise": "We noticed you left some items in your cart. Would you like to complete your purchase?",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "We noticed you left some items in your cart. Would you like to complete your purchase?",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Would you like to set up auto-pay for your subscription to avoid missing any future payments?",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "Would you like to set up auto-pay for your subscription to avoid missing any future payments?",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Hello there! How can I make your experience smoother today?",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Hello there! How can I make your experience smoother today?",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Your legal consultation is scheduled for Tuesday at 3 PM. Please let us know if you need to reschedule.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "Your legal consultation is scheduled for Tuesday at 3 PM. Please let us know if you need to reschedule.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "This property offers spacious living areas and stunning city views. Would you like to schedule a tour?",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "This property offers spacious living areas and stunning city views. Would you like to schedule a tour?",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Your insurance claim has been successfully submitted. We will notify you once it is processed.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "Your insurance claim has been successfully submitted. We will notify you once it is processed.",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "We’re currently experiencing server issues in our game. Our team is working to resolve them as soon as possible.",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "We’re currently experiencing server issues in our game. Our team is working to resolve them as soon as possible.",
+    "hypothesis": "Navigation",
+    "label": "contradiction"
+  },
+  {
+    "premise": "To reset your password, please follow the instructions in the email we just sent you.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "To reset your password, please follow the instructions in the email we just sent you.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Your vehicle is due for its scheduled maintenance. Would you like to book a service appointment?",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "Your vehicle is due for its scheduled maintenance. Would you like to book a service appointment?",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Government offices will be closed on Monday due to a public holiday. Please plan your visit accordingly.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "Government offices will be closed on Monday due to a public holiday. Please plan your visit accordingly.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "If you’re feeling overwhelmed, you’re not alone. I’m here to provide helpful resources and support.",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "If you’re feeling overwhelmed, you’re not alone. I’m here to provide helpful resources and support.",
+    "hypothesis": "Navigation",
+    "label": "contradiction"
+  },
+  {
+    "premise": "We noticed you haven’t logged into your account for a while. Is there anything we can help you with?",
+    "hypothesis": "Idle Animations",
+    "label": "entailment"
+  },
+  {
+    "premise": "We noticed you haven’t logged into your account for a while. Is there anything we can help you with?",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Hello! How can I assist you in finding the right insurance plan today?",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Hello! How can I assist you in finding the right insurance plan today?",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Your investment portfolio update is now available. Would you like to review your latest performance report?",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "Your investment portfolio update is now available. Would you like to review your latest performance report?",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Your order has been shipped! You can track your package here.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Your order has been shipped! You can track your package here.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Your doctor’s appointment is confirmed for Friday at 10 AM. Let us know if you need to reschedule.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "Your doctor’s appointment is confirmed for Friday at 10 AM. Let us know if you need to reschedule.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "The hotel you searched for has a limited-time discount. Would you like to book your stay now?",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "The hotel you searched for has a limited-time discount. Would you like to book your stay now?",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Your food delivery is on its way! Estimated arrival time: 30 minutes.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Your food delivery is on its way! Estimated arrival time: 30 minutes.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Your online course is now available! Click here to start learning.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Your online course is now available! Click here to start learning.",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "We’re processing your refund request. You’ll receive an update shortly.",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "We’re processing your refund request. You’ll receive an update shortly.",
+    "hypothesis": "Navigation",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Your job application has been successfully submitted. We will notify you of the next steps soon.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "Your job application has been successfully submitted. We will notify you of the next steps soon.",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Welcome! Let me know if you need assistance with your financial goals today.",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Welcome! Let me know if you need assistance with your financial goals today.",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Your insurance policy renewal date is approaching. Would you like to review your coverage options?",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "Your insurance policy renewal date is approaching. Would you like to review your coverage options?",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Your car maintenance appointment is confirmed for Saturday at 10 AM.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "Your car maintenance appointment is confirmed for Saturday at 10 AM.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Your streaming subscription will expire soon. Renew now to continue enjoying your favorite shows!",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "Your streaming subscription will expire soon. Renew now to continue enjoying your favorite shows!",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Your smart thermostat has detected an unusual temperature drop. Would you like me to adjust the settings?",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "Your smart thermostat has detected an unusual temperature drop. Would you like me to adjust the settings?",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Your government application has been submitted successfully. You will receive updates via email.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "Your government application has been submitted successfully. You will receive updates via email.",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "We’ve detected an issue with your internet connection. Try restarting your router or contact support for help.",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "We’ve detected an issue with your internet connection. Try restarting your router or contact support for help.",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Would you like to talk to a licensed therapist? We offer 24/7 mental health support.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "Would you like to talk to a licensed therapist? We offer 24/7 mental health support.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "The real estate market is booming! Let me show you the latest properties in your area.",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "The real estate market is booming! Let me show you the latest properties in your area.",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Your legal consultation appointment has been confirmed for Monday at 3 PM.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "Your legal consultation appointment has been confirmed for Monday at 3 PM.",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Welcome! How can I assist you with your auto insurance today?",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Welcome! How can I assist you with your auto insurance today?",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Hello! How can I assist you today?",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Hello! How can I assist you today?",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I understand how frustrating that must be for you.",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "I understand how frustrating that must be for you.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Please hold on while I look that up.",
+    "hypothesis": "Idle Animations",
+    "label": "entailment"
+  },
+  {
+    "premise": "Please hold on while I look that up.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "contradiction"
+  },
+  {
+    "premise": "This phone has an amazing camera and a long-lasting battery.",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "This phone has an amazing camera and a long-lasting battery.",
+    "hypothesis": "Navigation",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Let me guide you to the help section.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Let me guide you to the help section.",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Sorry, something went wrong. Let me fix that for you.",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "Sorry, something went wrong. Let me fix that for you.",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I’m listening, please continue.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m listening, please continue.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Hi, welcome to our support center! How can I help you today?",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Hi, welcome to our support center! How can I help you today?",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I'm really sorry to hear that you’re having trouble. Let’s try to fix it together.",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "I'm really sorry to hear that you’re having trouble. Let’s try to fix it together.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Thank you for your patience. We’re just processing your request now.",
+    "hypothesis": "Idle Animations",
+    "label": "entailment"
+  },
+  {
+    "premise": "Thank you for your patience. We’re just processing your request now.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "This smartwatch has incredible features, including heart rate monitoring and a sleep tracker.",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "This smartwatch has incredible features, including heart rate monitoring and a sleep tracker.",
+    "hypothesis": "Navigation",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Let me direct you to the settings page where you can update your preferences.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Let me direct you to the settings page where you can update your preferences.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Apologies, we encountered an error. Let me resolve that for you right away.",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "Apologies, we encountered an error. Let me resolve that for you right away.",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I’m all ears. Please go ahead and tell me more about the issue you’re facing.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m all ears. Please go ahead and tell me more about the issue you’re facing.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "It sounds like you’re feeling overwhelmed, and that’s okay. Let’s break it down step by step.",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "It sounds like you’re feeling overwhelmed, and that’s okay. Let’s break it down step by step.",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I’m still here waiting for your input, take your time.",
+    "hypothesis": "Idle Animations",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m still here waiting for your input, take your time.",
+    "hypothesis": "Navigation",
+    "label": "contradiction"
+  },
+  {
+    "premise": "That’s such a wonderful achievement, you should be proud!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "That’s such a wonderful achievement, you should be proud!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I can see how much this means to you, and I’m here to support you.",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "I can see how much this means to you, and I’m here to support you.",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Wow, that’s incredible news! I’m thrilled for you!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "Wow, that’s incredible news! I’m thrilled for you!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Thank you for reaching out! Let me know if you need anything else.",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Thank you for reaching out! Let me know if you need anything else.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "It's been great assisting you! Have a wonderful day ahead.",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "It's been great assisting you! Have a wonderful day ahead.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "That sounds really tough, I completely understand your concern.",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "That sounds really tough, I completely understand your concern.",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Welcome! How can I help you today?",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Welcome! How can I help you today?",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I'm really sorry you had to experience this, that must be frustrating.",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "I'm really sorry you had to experience this, that must be frustrating.",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "contradiction"
+  },
+  {
+    "premise": "It was a pleasure assisting you today, take care!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "It was a pleasure assisting you today, take care!",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I'm so happy for you! This is such exciting news.",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "I'm so happy for you! This is such exciting news.",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Hello! How can I assist you today?",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Hello! How can I assist you today?",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "That’s fantastic news! I’m so happy for you!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "That’s fantastic news! I’m so happy for you!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Welcome! Let’s get started on your request.",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Welcome! Let’s get started on your request.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Wow, you did an amazing job! Keep up the great work!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "Wow, you did an amazing job! Keep up the great work!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Hold on for a moment while I retrieve that information for you.",
+    "hypothesis": "Idle Animations",
+    "label": "entailment"
+  },
+  {
+    "premise": "Hold on for a moment while I retrieve that information for you.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "contradiction"
+  },
+  {
+    "premise": "This new laptop features a high-resolution display and long battery life.",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "This new laptop features a high-resolution display and long battery life.",
+    "hypothesis": "Navigation",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Click here to access your account settings.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Click here to access your account settings.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Oops! It looks like something went wrong. Let me fix that for you.",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "Oops! It looks like something went wrong. Let me fix that for you.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I'm listening carefully. Feel free to continue.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "I'm listening carefully. Feel free to continue.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Check out this amazing smartwatch with real-time health tracking!",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "Check out this amazing smartwatch with real-time health tracking!",
+    "hypothesis": "Navigation",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Hey there! How can I assist you today?",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Hey there! How can I assist you today?",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "That’s absolutely amazing! You should be proud of yourself!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "That’s absolutely amazing! You should be proud of yourself!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Goodbye! Have a fantastic day ahead!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Goodbye! Have a fantastic day ahead!",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "You’re doing an incredible job! Keep shining!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "You’re doing an incredible job! Keep shining!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Please wait a moment while I retrieve the details for you.",
+    "hypothesis": "Idle Animations",
+    "label": "entailment"
+  },
+  {
+    "premise": "Please wait a moment while I retrieve the details for you.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "This smartphone has an ultra-clear display and a super-fast processor!",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "This smartphone has an ultra-clear display and a super-fast processor!",
+    "hypothesis": "Navigation",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Tap here to explore the latest deals on our products.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Tap here to explore the latest deals on our products.",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I love your enthusiasm! Your positivity is contagious!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "I love your enthusiasm! Your positivity is contagious!",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I'm currently processing your request. Just a second!",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "I'm currently processing your request. Just a second!",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Oops! It seems like there’s a minor issue. I’ll fix that right away.",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "Oops! It seems like there’s a minor issue. I’ll fix that right away.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I’m here and ready to assist. Please go ahead!",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m here and ready to assist. Please go ahead!",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Take a look at our latest smartwatch—it’s packed with advanced health features!",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "Take a look at our latest smartwatch—it’s packed with advanced health features!",
+    "hypothesis": "Navigation",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I’m currently processing your request. Please give me a moment.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m currently processing your request. Please give me a moment.",
+    "hypothesis": "Navigation",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Hi there! What can I do for you today?",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Hi there! What can I do for you today?",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "That’s absolutely inspiring! You’re making a real difference!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "That’s absolutely inspiring! You’re making a real difference!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Thanks for chatting with me today! Have a great one!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Thanks for chatting with me today! Have a great one!",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "You’re incredibly talented! Your hard work truly stands out!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "You’re incredibly talented! Your hard work truly stands out!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Give me a moment while I gather that information for you.",
+    "hypothesis": "Idle Animations",
+    "label": "entailment"
+  },
+  {
+    "premise": "Give me a moment while I gather that information for you.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "This camera offers professional-grade image quality with AI-enhanced features!",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "This camera offers professional-grade image quality with AI-enhanced features!",
+    "hypothesis": "Navigation",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Click here to view your recent transactions.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Click here to view your recent transactions.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Your creativity is truly inspiring! Keep up the amazing work!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "Your creativity is truly inspiring! Keep up the amazing work!",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I'm processing your request. Feel free to ask me anything else!",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "I'm processing your request. Feel free to ask me anything else!",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Oops! I didn’t quite catch that. Could you repeat it?",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "Oops! I didn’t quite catch that. Could you repeat it?",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I'm listening carefully. Please go on.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "I'm listening carefully. Please go on.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Discover the power of our latest AI assistant—designed to enhance your workflow effortlessly!",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "Discover the power of our latest AI assistant—designed to enhance your workflow effortlessly!",
+    "hypothesis": "Navigation",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Good to see you! How can I assist today?",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Good to see you! How can I assist today?",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I’m so proud of how far you’ve come! Keep pushing forward!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m so proud of how far you’ve come! Keep pushing forward!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "contradiction"
+  },
+  {
+    "premise": "You’re doing great, your efforts are truly remarkable!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "You’re doing great, your efforts are truly remarkable!",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "It’s a pleasure working with you, your ideas are fantastic!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "It’s a pleasure working with you, your ideas are fantastic!",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Please hold on while I process your request.",
+    "hypothesis": "Idle Animations",
+    "label": "entailment"
+  },
+  {
+    "premise": "Please hold on while I process your request.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "contradiction"
+  },
+  {
+    "premise": "This phone boasts a crystal-clear display and an incredible camera!",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "This phone boasts a crystal-clear display and an incredible camera!",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Tap here to check your recent messages.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Tap here to check your recent messages.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "You’re making such a positive impact with your work, it’s inspiring!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "You’re making such a positive impact with your work, it’s inspiring!",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I’m paying attention to every detail. Please continue.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m paying attention to every detail. Please continue.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Oops, looks like there’s a problem. Let me assist you with that.",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "Oops, looks like there’s a problem. Let me assist you with that.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I’m listening carefully, let me know how I can help you further.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m listening carefully, let me know how I can help you further.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Explore the features of our newest smartwatch—it’s more than just a timepiece!",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "Explore the features of our newest smartwatch—it’s more than just a timepiece!",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I’m excited to see your progress. You’re going to do great things!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m excited to see your progress. You’re going to do great things!",
+    "hypothesis": "Navigation",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I hope you have a great day ahead! Thank you for your time.",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "I hope you have a great day ahead! Thank you for your time.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "It’s so inspiring to see how dedicated you are. Keep up the great work!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "It’s so inspiring to see how dedicated you are. Keep up the great work!",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I’m so proud of you for sticking with it! Your effort is truly paying off!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m so proud of you for sticking with it! Your effort is truly paying off!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Great job! Your hard work is evident, and it’s really paying off!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "Great job! Your hard work is evident, and it’s really paying off!",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I’m processing your request, please hold on for a moment.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m processing your request, please hold on for a moment.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Check out this brand-new phone with an amazing camera and a sleek design!",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "Check out this brand-new phone with an amazing camera and a sleek design!",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Feel free to browse through the different categories on our site.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Feel free to browse through the different categories on our site.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Your enthusiasm is contagious! Keep up the amazing attitude!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "Your enthusiasm is contagious! Keep up the amazing attitude!",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Thank you so much for your patience, I really appreciate it!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Thank you so much for your patience, I really appreciate it!",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I’m here, listening closely. Feel free to continue.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m here, listening closely. Feel free to continue.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I’m glad we were able to resolve that issue. Thanks for your understanding!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m glad we were able to resolve that issue. Thanks for your understanding!",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "This new app feature is incredibly helpful and easy to use!",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "This new app feature is incredibly helpful and easy to use!",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "It was great speaking with you! Feel free to reach out anytime.",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "It was great speaking with you! Feel free to reach out anytime.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Welcome! How can I assist you today?",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Welcome! How can I assist you today?",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "You’re doing such an amazing job! Keep it up!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "You’re doing such an amazing job! Keep it up!",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Your determination is so inspiring, I truly admire it!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "Your determination is so inspiring, I truly admire it!",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Thank you for your patience, I really appreciate it!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Thank you for your patience, I really appreciate it!",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I’m currently reviewing your request. Please hold on.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m currently reviewing your request. Please hold on.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "This new smartwatch is not only stylish but also offers incredible features like fitness tracking and heart rate monitoring.",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "This new smartwatch is not only stylish but also offers incredible features like fitness tracking and heart rate monitoring.",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Thank you for choosing our service. We hope to assist you again soon!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Thank you for choosing our service. We hope to assist you again soon!",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I’m listening closely, feel free to share more details.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m listening closely, feel free to share more details.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "You’ve made incredible progress! Keep up the great work!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "You’ve made incredible progress! Keep up the great work!",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Please let me know if you need any further assistance. I’m happy to help!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Please let me know if you need any further assistance. I’m happy to help!",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "This new camera offers outstanding picture quality, even in low light!",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "This new camera offers outstanding picture quality, even in low light!",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "It’s been wonderful helping you today, feel free to reach out if you need more assistance.",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "It’s been wonderful helping you today, feel free to reach out if you need more assistance.",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I’m here to assist you every step of the way. Let me know if you need anything else.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m here to assist you every step of the way. Let me know if you need anything else.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I’m so proud of what you’ve accomplished. Keep going!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m so proud of what you’ve accomplished. Keep going!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "contradiction"
+  },
+  {
+    "premise": "You're doing an excellent job, I'm really impressed!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "You're doing an excellent job, I'm really impressed!",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "contradiction"
+  },
+  {
+    "premise": "It’s amazing to see how far you’ve come. Well done!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "It’s amazing to see how far you’ve come. Well done!",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Please hold on while I fetch the information for you.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "Please hold on while I fetch the information for you.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Check out this amazing new tablet with a high-resolution screen and incredible performance!",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "Check out this amazing new tablet with a high-resolution screen and incredible performance!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Thank you for taking the time to speak with me today. Have a wonderful day ahead!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Thank you for taking the time to speak with me today. Have a wonderful day ahead!",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I’m always here to listen. Please feel free to continue.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m always here to listen. Please feel free to continue.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "You’ve really put in a lot of effort. Keep it up, you’re doing fantastic!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "You’ve really put in a lot of effort. Keep it up, you’re doing fantastic!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I’m ready to help with anything else you need. Let me know!",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m ready to help with anything else you need. Let me know!",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "This new laptop is perfect for professionals with its powerful performance and sleek design!",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "This new laptop is perfect for professionals with its powerful performance and sleek design!",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Let me direct you to the help center for more information.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Let me show you how to get to the product details.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Let me guide you to the support section for further assistance.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Let me direct you to the help center for more information.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Let me show you how to get to the product details.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Let me guide you to the support section for further assistance.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Let me direct you to the help center for more information.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Let me direct you to the help center for more information.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Let me show you how to get to the product details.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Let me show you how to get to the product details.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Let me guide you to the support section for further assistance.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Let me guide you to the support section for further assistance.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I’m here to assist you. What would you like to know?",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m here to assist you. What would you like to know?",
+    "hypothesis": "Navigation",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I'm listening carefully. Please go on.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "I'm listening carefully. Please go on.",
+    "hypothesis": "Navigation",
+    "label": "contradiction"
+  },
+  {
+    "premise": "This is a fantastic choice! You’re going to love it.",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "This is a fantastic choice! You’re going to love it.",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I truly appreciate your support. It means a lot!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "I truly appreciate your support. It means a lot!",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Let me walk you through the features of this amazing device.",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "Let me walk you through the features of this amazing device.",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I can direct you to the settings page to adjust your preferences.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "I can direct you to the settings page to adjust your preferences.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I’m actively listening. Please share more details.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m actively listening. Please share more details.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "That’s an incredible achievement! You should celebrate this moment.",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "That’s an incredible achievement! You should celebrate this moment.",
+    "hypothesis": "Navigation",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I appreciate your patience. Thank you for waiting.",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "I appreciate your patience. Thank you for waiting.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "This laptop is designed for top performance with a sleek and modern look.",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "This laptop is designed for top performance with a sleek and modern look.",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I can help you find the nearest store location.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "I can help you find the nearest store location.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Wow! You absolutely nailed it. That’s impressive!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "Wow! You absolutely nailed it. That’s impressive!",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Ugh, that’s so frustrating. I totally get why you’d be upset.",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "Ugh, that’s so frustrating. I totally get why you’d be upset.",
+    "hypothesis": "Navigation",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Alright, let’s get started! What do you need help with today?",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Alright, let’s get started! What do you need help with today?",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "This smartwatch can track your heart rate and even monitor your sleep.",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "This smartwatch can track your heart rate and even monitor your sleep.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Let me take you to the checkout page so you can complete your purchase.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Let me take you to the checkout page so you can complete your purchase.",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I’m listening carefully. Feel free to tell me anything.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "I’m listening carefully. Feel free to tell me anything.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Hmm… I’m still here if you need anything.",
+    "hypothesis": "Idle Animations",
+    "label": "entailment"
+  },
+  {
+    "premise": "Hmm… I’m still here if you need anything.",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Oops, something went wrong. Let me try that again.",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "Oops, something went wrong. Let me try that again.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "That’s disappointing… I really thought this would work.",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "That’s disappointing… I really thought this would work.",
+    "hypothesis": "Navigation",
+    "label": "contradiction"
+  },
+  {
+    "premise": "You’re almost there! Just one more step to complete your setup.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "You’re almost there! Just one more step to complete your setup.",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Click here to reset your password.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Follow this link to track your order status.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "I can guide you through the account setup process step by step.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Click here to reset your password.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Follow this link to track your order status.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I can guide you through the account setup process step by step.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Oops! Something went wrong. Let me fix that for you.",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "We encountered an unexpected error. Please refresh the page and try again.",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "The system seems to be down temporarily. Please check back in a few minutes.",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "Oops! Something went wrong. Let me fix that for you.",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "We encountered an unexpected error. Please refresh the page and try again.",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "The system seems to be down temporarily. Please check back in a few minutes.",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "This smartwatch helps you track your fitness goals effortlessly.",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "Check out our latest noise-canceling headphones for an immersive audio experience.",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "Would you like to see a demo of our new home security system?",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "This smartwatch helps you track your fitness goals effortlessly.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Check out our latest noise-canceling headphones for an immersive audio experience.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Would you like to see a demo of our new home security system?",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I'm really happy to hear that! Congratulations!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "That must have been really difficult. I'm here to support you.",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "I totally understand your frustration. Let me see what I can do to help.",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "I'm really happy to hear that! Congratulations!",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "That must have been really difficult. I'm here to support you.",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I totally understand your frustration. Let me see what I can do to help.",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "I'm still here if you need me!",
+    "hypothesis": "Idle Animations",
+    "label": "entailment"
+  },
+  {
+    "premise": "Take your time. I'll be here when you're ready.",
+    "hypothesis": "Idle Animations",
+    "label": "entailment"
+  },
+  {
+    "premise": "Just let me know when you need assistance!",
+    "hypothesis": "Idle Animations",
+    "label": "entailment"
+  },
+  {
+    "premise": "Welcome! How can I assist you today?",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Thanks for stopping by! Hope to see you again soon!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Goodbye! Let me know if you ever need any help.",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Welcome! How can I assist you today?",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Thanks for stopping by! Hope to see you again soon!",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Goodbye! Let me know if you ever need any help.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "This is amazing! You’ve worked so hard, and it really shows!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "This is amazing! You’ve worked so hard, and it really shows!",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Oh no… that must have been really tough. I totally understand why you’d feel that way.",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "Oh no… that must have been really tough. I totally understand why you’d feel that way.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Let’s get started! What brings you here today?",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Let’s get started! What brings you here today?",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "This laptop is lightweight, powerful, and has an all-day battery.",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "This laptop is lightweight, powerful, and has an all-day battery.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Let me walk you through the checkout process. It won’t take long!",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Let me walk you through the checkout process. It won’t take long!",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Got it, I’m listening. Go ahead and tell me more.",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "entailment"
+  },
+  {
+    "premise": "Got it, I’m listening. Go ahead and tell me more.",
+    "hypothesis": "Product Showcase",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Just a sec, I’m processing that for you.",
+    "hypothesis": "Idle Animations",
+    "label": "entailment"
+  },
+  {
+    "premise": "Just a sec, I’m processing that for you.",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Hmm… it looks like something isn’t right. Let me take another look.",
+    "hypothesis": "Error Handling",
+    "label": "entailment"
+  },
+  {
+    "premise": "Hmm… it looks like something isn’t right. Let me take another look.",
+    "hypothesis": "Emotion Set",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Ugh, I was really hoping this would work out better.",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "Ugh, I was really hoping this would work out better.",
+    "hypothesis": "Navigation",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Almost there! Just one final step to complete your order.",
+    "hypothesis": "Navigation",
+    "label": "entailment"
+  },
+  {
+    "premise": "Almost there! Just one final step to complete your order.",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "This camera takes stunning low-light photos, and the zoom is incredible.",
+    "hypothesis": "Product Showcase",
+    "label": "entailment"
+  },
+  {
+    "premise": "This camera takes stunning low-light photos, and the zoom is incredible.",
+    "hypothesis": "Error Handling",
+    "label": "contradiction"
+  },
+  {
+    "premise": "That’s wonderful news! I’m so happy for you!",
+    "hypothesis": "Emotion Set",
+    "label": "entailment"
+  },
+  {
+    "premise": "That’s wonderful news! I’m so happy for you!",
+    "hypothesis": "Idle Animations",
+    "label": "contradiction"
+  },
+  {
+    "premise": "Alright, I think we’re all set. Have a fantastic day!",
+    "hypothesis": "Interaction Openers & Closers",
+    "label": "entailment"
+  },
+  {
+    "premise": "Alright, I think we’re all set. Have a fantastic day!",
+    "hypothesis": "Speaking & Listening Mode",
+    "label": "contradiction"
+  }
+]
